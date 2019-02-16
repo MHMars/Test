@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property(nonatomic,strong)NSString *name;
+@property(nonatomic,assign)int no;
 @end
 
 @implementation ViewController
